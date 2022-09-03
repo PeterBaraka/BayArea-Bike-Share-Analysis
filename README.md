@@ -10,8 +10,3 @@
 ## Summary of Findings
 
 > Subscribers utilize the service the more than customers with their peak usage being on weekdays in the morning hours (around 6:00 am to 8:00 am) and afternoon hours (4:00 pm to 6:00 pm) with significant drops over the weekends. We may infer that most subscribers use the service to get to their work destinations and then get back home at the end of the day. We also see that subscriber trip duration is concentrated around 20 minutes and below versus customers who have longer trips (although they are fewer).
-
-
-## Key Insights for Presentation
-
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
